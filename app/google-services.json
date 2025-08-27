@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205166701859",
+    "project_id": "cgcclub-290df",
+    "storage_bucket": "cgcclub-290df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205166701859:android:24ef78bbc093d2abe5b096",
+        "android_client_info": {
+          "package_name": "com.nitish.cgcclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlKlNrT_D5arfRzlfCDvvI7eD1kFzIR50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

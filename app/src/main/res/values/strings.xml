@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CgcClub</string>
+
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg">Established in 2001, Chandigarh Group of Colleges, Landran (CGC Landran) has emerged as a premier educational institution in North India, offering a wide range of undergraduate and postgraduate programs in engineering, management, pharmacy, biotechnology, computer applications, and more. With a commitment to academic excellence and innovation, CGC Landran is affiliated with IK Gujral Punjab Technical University (IKGPTU) and is approved by AICTE and other regulatory bodies. The institution aims to empower students with industry-relevant skills and a vision aligned with national and global development goals.
+
+</string>
+</resources>
